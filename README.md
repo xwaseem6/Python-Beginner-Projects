@@ -10,7 +10,7 @@ This repository contains all the Python projects I build while learning Python f
 |-----|---------|--------|
 | 01 | Calculator | ✅ Completed |
 | 02 | Login System | ✅ Completed |
-| 03 | Number Guessing Game | ⏳ Coming Soon |
+| 03 | Number Guessing Game | ✅ Completed |
 | 04 | Multiplication Table Generator | ⏳ Coming Soon |
 | 05 | Quiz Game | ⏳ Coming Soon |
 
