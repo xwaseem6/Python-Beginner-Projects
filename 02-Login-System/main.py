@@ -14,4 +14,4 @@ while attempts <= 3:
         print("Invalid username or Password. Please try again!")
         attempts = attempts + 1
 if attempts > 3:
-    print("Too many invalid arttempts, Please try again later.")
+    print("Too many invalid attempts, Please try again later.")
